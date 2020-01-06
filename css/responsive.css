@@ -1,0 +1,14 @@
+@media(min-width:767px){
+    .side-element
+    {
+        position: relative;
+        width: 100%;
+        background: #fbfbfb;
+        padding: 20px;
+        height: 100vh;
+        bottom: 0;
+        right: 0;
+        transform: translate(100%,0);
+        display: none;
+    }
+    }

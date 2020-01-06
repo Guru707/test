@@ -1,0 +1,98 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/11/2019 07:48
+  	*/
+
+    @font-face {
+      font-family: "Flaticon";
+      src: url("../fonts/icons/Flaticon.eot");
+      src: url("../fonts/icons/Flaticon.eot?#iefix") format("embedded-opentype"),
+           url("../fonts/icons/Flaticon.woff2") format("woff2"),
+           url("../fonts/icons/Flaticon.woff") format("woff"),
+           url("../fonts/icons/Flaticon.ttf") format("truetype"),
+           url("../fonts/icons/Flaticon.svg#Flaticon") format("svg");
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/icons/Flaticon.svg#Flaticon") format("svg");
+      }
+    }
+    
+    [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+    [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+      font-family: Flaticon;
+      
+    font-style: normal;
+    
+    }
+    
+    .flaticon-light-bulb:before { content: "\f100"; }
+    .flaticon-tag:before { content: "\f101"; }
+    .flaticon-hammock-relaxing:before { content: "\f102"; }
+    .flaticon-quality:before { content: "\f103"; }
+    .flaticon-express-delivery:before { content: "\f104"; }
+    .flaticon-verification-of-delivery-list-clipboard-symbol:before { content: "\f105"; }
+    .flaticon-toilet:before { content: "\f106"; }
+    .flaticon-stage:before { content: "\f107"; }
+    .flaticon-carpet:before { content: "\f108"; }
+    .flaticon-left-arrow:before { content: "\f109"; }
+    .flaticon-menu-button-of-three-horizontal-lines:before { content: "\f10a"; }
+    .flaticon-spa:before { content: "\f10b"; }
+    .flaticon-hair-dryer:before { content: "\f10c"; }
+    .flaticon-minisplit:before { content: "\f10d"; }
+    .flaticon-tools-and-utensils:before { content: "\f10e"; }
+    .flaticon-wrench:before { content: "\f10f"; }
+    .flaticon-dumbbell:before { content: "\f110"; }
+    .flaticon-heartbeat:before { content: "\f111"; }
+    .flaticon-buddhist-yoga-pose:before { content: "\f112"; }
+    .flaticon-rounded-plug:before { content: "\f113"; }
+    .flaticon-faucet:before { content: "\f114"; }
+    .flaticon-caliper:before { content: "\f115"; }
+    .flaticon-nightstand:before { content: "\f116"; }
+    .flaticon-stuffit-x-archive:before { content: "\f117"; }
+    .flaticon-carpet-1:before { content: "\f118"; }
+    .flaticon-faucet-1:before { content: "\f119"; }
+    .flaticon-cleaning-products:before { content: "\f11a"; }
+    .flaticon-mop:before { content: "\f11b"; }
+    .flaticon-mop-1:before { content: "\f11c"; }
+    .flaticon-carpet-2:before { content: "\f11d"; }
+    .flaticon-kitchen:before { content: "\f11e"; }
+    .flaticon-car:before { content: "\f11f"; }
+    .flaticon-fridge:before { content: "\f120"; }
+    .flaticon-washing-machine:before { content: "\f121"; }
+    .flaticon-microwave-oven:before { content: "\f122"; }
+    .flaticon-water:before { content: "\f123"; }
+    .flaticon-relax:before { content: "\f124"; }
+    .flaticon-massage:before { content: "\f125"; }
+    .flaticon-hair-cut-tool:before { content: "\f126"; }
+    .flaticon-cosmetics:before { content: "\f127"; }
+    .flaticon-lotus-flower:before { content: "\f128"; }
+    .flaticon-nail-puller:before { content: "\f129"; }
+    .flaticon-patent:before { content: "\f12a"; }
+    .flaticon-sofa:before { content: "\f12b"; }
+    .flaticon-clean:before { content: "\f12c"; }
+    .flaticon-home:before { content: "\f12d"; }
+    .flaticon-house:before { content: "\f12e"; }
+    .flaticon-home-1:before { content: "\f12f"; }
+    .flaticon-restroom:before { content: "\f130"; }
+    .flaticon-sofa-1:before { content: "\f131"; }
+    .flaticon-kitchen-1:before { content: "\f132"; }
+    .flaticon-bedroom:before { content: "\f133"; }
+    .flaticon-window:before { content: "\f134"; }
+    .flaticon-floor:before { content: "\f135"; }
+    .flaticon-mattress:before { content: "\f136"; }
+    .flaticon-toy:before { content: "\f137"; }
+    .flaticon-cinema:before { content: "\f138"; }
+    .flaticon-van:before { content: "\f139"; }
+    .flaticon-carpet-3:before { content: "\f13a"; }
+    .flaticon-suit:before { content: "\f13b"; }
+    .flaticon-urban:before { content: "\f13c"; }
+    .flaticon-shop:before { content: "\f13d"; }
+    .flaticon-penthouse:before { content: "\f13e"; }
+    .flaticon-market:before { content: "\f13f"; }
+    .flaticon-wash:before { content: "\f140"; }
+    .flaticon-clean-1:before { content: "\f141"; }

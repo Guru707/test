@@ -1,0 +1,62 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 18/11/2019 05:32
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-light-bulb:before { content: "\f100"; }
+.flaticon-tag:before { content: "\f101"; }
+.flaticon-hammock-relaxing:before { content: "\f102"; }
+.flaticon-quality:before { content: "\f103"; }
+.flaticon-express-delivery:before { content: "\f104"; }
+.flaticon-verification-of-delivery-list-clipboard-symbol:before { content: "\f105"; }
+.flaticon-toilet:before { content: "\f106"; }
+.flaticon-stage:before { content: "\f107"; }
+.flaticon-carpet:before { content: "\f108"; }
+.flaticon-left-arrow:before { content: "\f109"; }
+.flaticon-menu-button-of-three-horizontal-lines:before { content: "\f10a"; }
+    
+    $font-Flaticon-light-bulb: "\f100";
+    $font-Flaticon-tag: "\f101";
+    $font-Flaticon-hammock-relaxing: "\f102";
+    $font-Flaticon-quality: "\f103";
+    $font-Flaticon-express-delivery: "\f104";
+    $font-Flaticon-verification-of-delivery-list-clipboard-symbol: "\f105";
+    $font-Flaticon-toilet: "\f106";
+    $font-Flaticon-stage: "\f107";
+    $font-Flaticon-carpet: "\f108";
+    $font-Flaticon-left-arrow: "\f109";
+    $font-Flaticon-menu-button-of-three-horizontal-lines: "\f10a";
